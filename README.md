@@ -15,3 +15,5 @@ To generate a link that opens noto, automatically clones (or pulls) this repo, a
     File to open: path to the notebook that must be opened, relative to the root of the git directory. For example "lecture1/file_name.ipynb"
     Application to open: JupyterLab
     Named Server to open: blank
+
+Then, [GO EPFL](https://go.epfl.ch) can be used to generate a shorter version of the link.

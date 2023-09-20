@@ -4,7 +4,7 @@ Repository for the exercise sessions for the phys-231 class at EPFL, fall semest
 
 ## How to generate links to open the notebooks in noto@epfl
 
-[Noto](https://www.epfl.ch/education/educational-initiatives/jupyter-notebooks-for-education/getting-started-using-jupyter-notebooks-in-your-classroom/) is EPFL's version of Google colab.
+[Noto](https://www.epfl.ch/education/educational-initiatives/jupyter-notebooks-for-education/one-click-access-to-jupyter-notebooks-online-with-noto/) is EPFL's version of Google colab.
 It allows to edit and run jupyter notebooks easily. 
 
 To generate a link that opens noto, automatically clones (or pulls) this repo, and opens a given notebook, you can use this [link generator](https://nbgitpuller.readthedocs.io/en/latest/link.html), with parameters

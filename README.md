@@ -1,4 +1,4 @@
-# phys-231-exercises
+# phys-231-exercises -- fall semester 2023
 
 Repository for the exercise sessions for the phys-231 class at EPFL, fall semester 2023.
 

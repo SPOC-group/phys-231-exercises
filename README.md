@@ -16,4 +16,8 @@ To generate a link that opens noto, automatically clones (or pulls) this repo, a
     Application to open: JupyterLab
     Named Server to open: blank
 
+or use this link, substituting only the path parameter
+
+    https://noto.epfl.ch/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2FSPOC-group%2Fphys-231-exercises&urlpath=lab%2Ftree%2Fphys-231-exercises%2FExercise_3%2Fex_3_images_and_svd.ipynb&branch=main
+
 Then, [GO EPFL](https://go.epfl.ch) can be used to generate a shorter version of the link.
